@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/sxb/scmpf_yii/backend/views/build-tar-info'
+let g:netrw_dirhist_2='/home/sxb/jamu_backend/common/config'
+let g:netrw_dirhist_3='/home/sxb/scmpf_yii/backend/views/sim-lock-log'
+let g:netrw_dirhist_4='/home/sxb/scmpf_go/src/jamu-api/controllers'
+let g:netrw_dirhist_5='/home/sxb/.vim'
